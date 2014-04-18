@@ -18,5 +18,7 @@ Fruit.prototype.nativeTo = function () {
 var mangoFruit = new Fruit ();
 mangoFruit.showName(); //
 mangoFruit.nativeTo();
+
+var mangoFruit2 = new Fruit ();
 // This is a Generic Fruit
 // Grown in:USA
